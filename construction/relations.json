@@ -1,0 +1,172 @@
+{
+    "person": [
+        {
+            "str": "sex or gender",
+            "PID": "P21"
+        },
+        {
+            "str": "place of birth",
+            "PID": "P19"
+        },
+        {
+            "str": "place of death",
+            "PID": "P20"
+        },
+        {
+            "str": "cause of death",
+            "PID": "P509"
+        },
+        {
+            "str": "place of burial",
+            "PID": "P119"
+        },
+        {
+            "str": "father",
+            "PID": "P22"
+        },
+        {
+            "str": "mother",
+            "PID": "P25"
+        },
+        {
+            "str": "sibling",
+            "PID": "P3373"
+        },
+        {
+            "str": "spouse",
+            "PID": "P26"
+        },
+        {
+            "str": "child",
+            "PID": "P40"
+        },
+        {
+            "str": "relative",
+            "PID": "P560"
+        },
+        {
+            "str": "native language",
+            "PID": "P103"
+        },
+        {
+            "str": "languages spoken, written or signed",
+            "PID": "P1412"
+        },
+        {
+            "str": "religion or worldview",
+            "PID": "P140"
+        },
+        {
+            "str": "country of citizenship",
+            "PID": "P27"
+        },
+        {
+            "str": "occupation",
+            "PID": "P106"
+        },
+        {
+            "str": "employer",
+            "PID": "P108"
+        },
+        {
+            "str": "position held",
+            "PID": "P39"
+        },
+        {
+            "str": "educated at",
+            "PID": "P69"
+        },
+        {
+            "str": "sport",
+            "PID": "P641"
+        },
+        {
+            "str": "award received",
+            "PID": "P166"
+        },
+        {
+            "str": "participant in",
+            "PID": "P1344"
+        },
+        {
+            "str": "member of",
+            "PID": "P463"
+        }
+    ],
+    "place": [
+        {
+            "str": "industry",
+            "PID": "P452"
+        },
+        {
+            "str": "headquarters location",
+            "PID": "P159"
+        },
+                {
+            "str": "country",
+            "PID": "P17"
+        },
+        {
+            "str": "owned by",
+            "PID": "P127"
+        },
+        {
+            "str": "founded by",
+            "PID": "P112"
+        },
+        {
+            "str": "location of formation",
+            "PID": "P740"
+        },
+        {
+            "str": "parent organization or unit",
+            "PID": "P749"
+        }
+    ],
+    "thing": [
+        {
+            "str": "genre",
+            "PID": "P136"
+        },
+        {
+            "str": "developer",
+            "PID": "P178"
+        },
+        {
+            "str": "publisher",
+            "PID": "P123"
+        },
+        {
+            "str": "country of origin",
+            "PID": "P495"
+        },
+        {
+            "str": "composer",
+            "PID": "P86"
+        },
+        {
+            "str": "director",
+            "PID": "P57"
+        },
+        {
+            "str": "screenwriter",
+            "PID": "P58"
+        },
+        {
+            "str": "production company",
+            "PID": "P272"
+        },
+        {
+            "str": "author",
+            "PID": "P50"
+        },
+        {
+            "str": "language of work or name",
+            "PID": "P407"
+        },
+        {
+            "str": "creator",
+            "PID": "P170"
+        }
+    ]
+}

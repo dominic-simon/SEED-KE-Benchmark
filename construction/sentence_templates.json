@@ -1,0 +1,314 @@
+{
+    "P17": [
+        "SUBJ is located in the country of OBJ",
+        "The country that SUBJ is located in is OBJ",
+        "SUBJ is located in OBJ",
+        "SUBJ, which is located in OBJ",
+        "SUBJ, located in OBJ"
+    ],
+    "P19": [
+        "SUBJ was born in OBJ",
+        "The location of SUBJ's birth was OBJ",
+        "SUBJ is originally from OBJ",
+        "SUBJ was originally from OBJ",
+        "SUBJ was birthed at OBJ",
+        "The birthplace of SUBJ is OBJ"
+    ],
+    "P20": [
+        "SUBJ died in OBJ",
+        "SUBJ died at OBJ",
+        "SUBJ passed away in OBJ",
+        "SUBJ passed away at OBJ",
+        "SUBJ lost their life at OBJ",
+        "SUBJ's life ended in OBJ",
+        "The place of SUBJ's death was at OBJ"
+    ],
+    "P21": [
+        "The sex of SUBJ is OBJ",
+        "SUBJ is the sex OBJ",
+        "SUBJ's sex is OBJ",
+        "The sex that SUBJ was born as is OBJ",
+        "SUBJ, whose sex is OBJ"
+    ],
+    "P22": [
+        "The father of SUBJ is OBJ",
+        "SUBJ was fathered by OBJ",
+        "SUBJ's father is OBJ",
+        "SUBJ, whose father is OBJ"
+    ],
+    "P25": [
+        "The mother of SUBJ is OBJ",
+        "SUBJ was mothered by OBJ",
+        "SUBJ was birthed by OBJ",
+        "SUBJ's mother is OBJ"
+    ],
+    "P26": [
+        "SUBJ is married to OBJ",
+        "The spouse of SUBJ is OBJ",
+        "SUBJ's spouse is OBJ",
+        "The marriage partner of SUBJ is OBJ"
+    ],
+    "P27": [
+        "SUBJ is a citizen of OBJ",
+        "SUBJ, a citizen of OBJ",
+        "SUBJ, who is a citizen of OBJ",
+        "SUBJ holds a citizenship of OBJ",
+        "SUBJ has a citizenship of OBJ",
+        "SUBJ, who holds a citizenship of OBJ",
+        "SUBJ, who has a citizenship of OBJ",
+        "SUBJ's country of citizenship is OBJ",
+        "The country of citizenship of SUBJ is OBJ"
+    ],
+    "P39": [
+        "SUBJ has the position of OBJ",
+        "SUBJ, who has the position of OBJ",
+        "SUBJ, whose position of that of OBJ",
+        "SUBJ's position is OBJ",
+        "SUBJ holds the position of OBJ",
+        "SUBJ, who holds the position of OBJ"
+    ],
+    "P40": [
+        "The child of SUBJ is OBJ",
+        "A child of SUBJ is OBJ",
+        "One of SUBJ's children is OBJ",
+        "SUBJ is the parent of OBJ",
+        "SUBJ is a parent of OBJ",
+        "SUBJ has parental responsibilities for OBJ",
+        "The children of SUBJ include OBJ"
+    ],
+    "P50": [
+        "SUBJ was authored by OBJ",
+        "SUBJ is authored by OBJ",
+        "The author of SUBJ is OBJ",
+        "The author of SUBJ was OBJ",
+        "SUBJ was written by OBJ",
+        "The writer of SUBJ is OBJ"
+    ],
+    "P57": [
+        "SUBJ was directed by OBJ",
+        "The director of SUBJ is OBJ",
+        "The director of SUBJ was OBJ",
+        "SUBJ, directed by OBJ",
+        "SUBJ's director is OBJ",
+        "SUBJ was under the direction of OBJ",
+        "SUBJ came from the director OBJ"
+    ],
+    "P58": [
+        "The screenwriter for SUBJ was OBJ",
+        "The screenwriter for SUBJ is OBJ",
+        "SUBJ was written by OBJ",
+        "The script for SUBJ was written by OBJ",
+        "SUBJ, written by OBJ"
+    ],
+    "P69": [
+        "SUBJ was educated at OBJ",
+        "SUBJ was schooled at OBJ",
+        "SUBJ attended the school OBJ",
+        "The school attended by SUBJ was OBJ",
+        "An educational facility attended by SUBJ was called OBJ"
+    ],
+    "P86": [
+        "The music in SUBJ was composed by OBJ",
+        "The composer for SUBJ is OBJ",
+        "The composer for SUBJ was OBJ",
+        "SUBJ had its music composed by OBJ"
+    ],
+    "P103": [
+        "The native language of SUBJ is OBJ",
+        "The mother tongue of SUBJ is OBJ",
+        "SUBJ's native language is OBJ",
+        "SUBJ's mother tongue is OBJ"
+    ],
+    "P106": [
+        "SUBJ works as a OBJ",
+        "SUBJ, who works as a OBJ",
+        "SUBJ's occupation is OBJ",
+        "The occupation of SUBJ is OBJ",
+        "SUBJ's  profession is OBJ",
+        "The profession of SUBJ is OBJ",
+        "SUBJ's job is that of a OBJ"
+    ],
+    "P108": [
+        "SUBJ works for OBJ",
+        "SUBJ, who works for OBJ",
+        "SUBJ is employed by OBJ",
+        "SUBJ, who is employed by OBJ",
+        "The employed of SUBJ is OBJ"
+    ],
+    "P112": [
+        "SUBJ was founded by OBJ",
+        "One of the founders of SUBJ is OBJ",
+        "A founder of SUBJ is OBJ",
+        "SUBJ, which was founded by OBJ"
+    ],
+    "P119": [
+        "SUBJ was buried at OBJ",
+        "The burial location of SUBJ is OBJ",
+        "SUBJ, who was buried at OBJ",
+        "The location of burial for SUBJ is at OBJ"
+    ],
+    "P123": [
+        "SUBJ was published by OBJ",
+        "The publisher of SUBJ is OBJ",
+        "SUBJ is published by OBJ",
+        "SUBJ, published by OBJ"
+    ],
+    "P127": [
+        "SUBJ is owned by OBJ",
+        "The owner of SUBJ is OBJ",
+        "SUBJ, owned by OBJ",
+        "SUBJ's owner is OBJ"
+    ],
+    "P136": [
+        "SUBJ's genre is OBJ",
+        "The genre that the work SUBJ belongs to is OBJ",
+        "The genre of SUBJ is OBJ",
+        "SUBJ belongs to the genre of OBJ"
+    ],
+    "P140": [
+        "SUBJ is affiliated with religion OBJ",
+        "SUBJ follows the religion OBJ",
+        "SUBJ is a follower of OBJ",
+        "SUBJ's official religion is OBJ",
+        "SUBJ is buried at OBJ",
+        "The religion that SUBJ follows is OBJ",
+        "The religion followed by SUBJ is OBJ"
+    ],
+    "P159": [
+        "SUBJ is headquartered in OBJ",
+        "The headquarters location of SUBJ is in OBJ",
+        "The location of the headquarters of SUBJ is OBJ",
+        "SUBJ, which is headquarted in OBJ",
+        "The comapny SUBJ has its headquarters location in OBJ",
+        "The headquarters of SUBJ is in OBJ",
+        "The headquarter of SUBJ is located in OBJ"
+    ],
+    "P166": [
+        "SUBJ recieved the award OBJ",
+        "SUBJ is a receipient of the award OBJ",
+        "SUBJ is a receiver of the award OBJ",
+        "SUBJ, who is a recipient of OBJ",
+        "SUBJ, who a receiver of the award called OBJ"
+    ],
+    "P170": [
+        "The creator of SUBJ is OBJ",
+        "The creator of SUBJ was OBJ",
+        "SUBJ was created by OBJ",
+        "SUBJ's creator is OBJ"
+    ],
+    "P178": [
+        "The developer of SUBJ is OBJ",
+        "SUBJ's developer is OBJ",
+        "SUBJ was developed by OBJ",
+        "SUBJ is developed by OBJ",
+        "SUBJ was developed by OBJ",
+        "SUBJ, developed by OBJ",
+        "SUBJ is a product of OBJ",
+        "SUBJ was a product of OBJ",
+        "SUBJ, developed by OBJ"
+    ],
+    "P272": [
+        "The film studio for SUBJ is OBJ",
+        "SUBJ's film studio is OBJ",
+        "The production company for SUBJ is OBJ",
+        "SUBJ's production company is OBJ",
+        "The motion picture studio for SUBJ is OBJ",
+        "SUBJ's motion picture studio is OBJ"
+    ],
+    "P407": [
+        "SUBJ was written in OBJ",
+        "SUBJ is written in OBJ",
+        "SUBJ was written in the language of OBJ",
+        "SUBJ is written in the language of OBJ",
+        "The language of SUBJ is OBJ"
+    ],
+    "P452": [
+        "SUBJ participates in the industry of OBJ",
+        "The industry that SUBJ is part of is OBJ",
+        "SUBJ is part of the industry called OBJ",
+        "SUBJ is a participant in the industry of OBJ"
+    ],
+    "P463": [
+        "SUBJ was a member of OBJ",
+        "SUBJ is a member of OBJ",
+        "SUBJ has a membership to OBJ",
+        "SUBJ carries a membership to OBJ",
+        "SUBJ, who is a member of OBJ",
+        "SUBJ, a member of OBJ",
+        "SUBJ belongs to the organizaion of OBJ",
+        "SUBJ is affiliated with OBJ"
+    ],
+    "P495": [
+        "The country of origin of SUBJ is OBJ",
+        "SUBJ was created in OBJ",
+        "SUBJ's country of origin is OBJ",
+        "The country that SUBJ originated from is OBJ"
+    ],
+    "P509": [
+        "SUBJ died from OBJ",
+        "SUBJ was killed by OBJ",
+        "The cause of death of SUBJ is OBJ",
+        "The cause of death of SUBJ was OBJ"
+    ],
+    "P560": [
+        "SUBJ is related to OBJ",
+        "SUBJ has a familial relation to OBJ",
+        "SUBJ is part of the same family as OBJ",
+        "The family of SUBJ is shared with OBJ",
+        "SUBJ shares the same family with OBJ"
+    ],
+    "P641": [
+        "SUBJ played the sport of OBJ",
+        "SUBJ played the sport called OBJ",
+        "SUBJ plays the sport of OBJ",
+        "SUBJ plays the sport called OBJ",
+        "SUBJ is a player of the sport OBJ",
+        "SUBJ, a player of OBJ",
+        "SUBJ, who played OBJ",
+        "SUBJ, who plays OBJ"
+    ],
+    "P740": [
+        "SUBJ was founded in OBJ",
+        "SUBJ was formed in OBJ",
+        "The location of formation of SUBJ is OBJ",
+        "The location that SUBJ was founded is OBJ",
+        "The location that SUBJ was formed is OBJ",
+        "SUBJ, who was formed in OBJ",
+        "SUBJ, who was founded in OBJ",
+        "SUBJ, founded in OBJ",
+        "SUBJ was created in OBJ",
+        "SUBJ, created in OBJ"
+    ],
+    "P749": [
+        "The parent organization of SUBJ is OBJ",
+        "SUBJ has the parent organization OBJ",
+        "SUBJ, whose parent organization is OBJ",
+        "SUBJ's parent organization is OBJ"
+    ],
+    "P800": [
+        "SUBJ created the notable work called OBJ",
+        "SUBJ created the work called OBJ",
+        "SUBJ is known for creating OBJ",
+        "SUBJ is famous for making OBJ",
+        "SUBJ, whose notable works include OBJ",
+        "SUBJ, who is famous for making OBJ"
+    ],
+    "P1344": [
+        "SUBJ, who participated in OBJ",
+        "SUBJ participated in OBJ",
+        "SUBJ was a participant of OBJ",
+        "SUBJ took part in OBJ"
+    ],
+    "P1412": [
+        "SUBJ used to communicate in OBJ",
+        "SUBJ communicated in OBJ",
+        "SUBJ communicates in OBJ",
+        "The communication language of SUBJ is OBJ"
+    ],
+    "P3373": [
+        "A sibling of SUBJ is OBJ",
+        "SUBJ's sibling is OBJ",
+        "SUBJ shares the same parents as OBJ",
+        "The parents of SUBJ are shared with OBJ"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "str": [
+        "father", 
+        "mother", 
+        "spouse", 
+        "child", 
+        "author",
+        "director",
+        "screenwriter",
+        "composer",
+        "employer",
+        "founded by",
+        "publisher",
+        "owned by",
+        "creator",
+        "developer",
+        "production company",
+        "relative", 
+        "parent organization or unit",
+        "sibling"
+    ],
+    "PID": [
+        "P22", 
+        "P25", 
+        "P26", 
+        "P40", 
+        "P50",
+        "P57",
+        "P58",
+        "P86",
+        "P108",
+        "P112",
+        "P123",
+        "P127",
+        "P170",
+        "P178",
+        "P272",
+        "P560", 
+        "P749",
+        "P3373"
+    ]
+}
